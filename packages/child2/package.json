@@ -1,0 +1,16 @@
+{
+  "name": "@scope/child2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build",
+  "types": "build",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@scope/child1": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+{
+  "references": [
+    { "path": "./packages/child1/tsconfig.json" },
+    { "path": "./packages/child2/tsconfig.json" }
+  ],
+  "exclude": ["./packages/*/build/**"]
+}
